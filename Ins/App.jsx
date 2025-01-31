@@ -53,6 +53,8 @@ function App() {
         >
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="text-zinc-300">
+            haii, let me introduce myself, i'm kiuu. i'm someone who tends to be lazy when it comes to many things, but i love to exploit my curiosity by exploring things that catch my interest. heummmmm… if you need any help or want to know more about me, feel free to contact me through my social media below!
+
             
           </p>
         </motion.section>
