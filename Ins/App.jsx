@@ -19,7 +19,7 @@ function App() {
           className="flex justify-center"
         >
           <img 
-            src="https://avatars.githubusercontent.com/u/153608709?v=4"
+            src="https://avatars.githubusercontent.com/u/182334162?s=400&u=e752448310d9d43bdcdaaa35e7b851ae351b2838&v=4"
             alt="INS"
             className="w-48 h-48 rounded-full shadow-xl border-4 border-zinc-700"
           />
@@ -53,9 +53,7 @@ function App() {
         >
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="text-zinc-300">
-            I'm a passionate developer who loves creating beautiful and functional web applications.
-            With experience in both frontend and backend development, I enjoy turning complex problems
-            into simple, beautiful, and intuitive solutions.
+            
           </p>
         </motion.section>
 
