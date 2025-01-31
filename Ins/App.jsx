@@ -32,7 +32,7 @@ function App() {
             animate={{ opacity: 1 }}
             className="text-4xl md:text-5xl font-bold"
           >
-            Hello, I'm INS
+            Hello, i'm kiuu
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0 }}
@@ -40,7 +40,7 @@ function App() {
             transition={{ delay: 0.2 }}
             className="text-zinc-400 text-lg"
           >
-            Full Stack Developer
+            F
           </motion.p>
         </header>
 
@@ -65,9 +65,9 @@ function App() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4 }}
         >
-          <h2 className="text-2xl font-semibold mb-4">Tech Stack</h2>
+          <h2 className="text-2xl font-semibold mb-4">hobby</h2>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-            {['React', 'Node.js', 'TypeScript', 'TailwindCSS', 'PostgreSQL', 'Next.js'].map((tech) => (
+            {['makan', 'mobile legends', 'turu'].map((tech) => (
               <div 
                 key={tech}
                 className="bg-zinc-800 p-4 rounded-lg text-center hover:bg-zinc-700 transition-colors"
